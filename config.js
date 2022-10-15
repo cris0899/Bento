@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Cristhian',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Archive',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://archive.org',
 		},
 		{
 			id: '6',
