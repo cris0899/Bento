@@ -71,14 +71,14 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Google',
+			icon: 'search',
+			link: 'https://google.com',
 		},
 		{
 			id: '5',
 			name: 'Archive',
-			icon: 'glasses',
+			icon: 'archive',
 			link: 'https://archive.org',
 		},
 		{
